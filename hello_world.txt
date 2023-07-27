@@ -1,0 +1,4 @@
+This is a text file created to test 
+committing files from Git to Github.
+
+Hello World and Odin!
